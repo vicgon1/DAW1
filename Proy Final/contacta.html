@@ -1,0 +1,155 @@
+<!doctype <!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Contact Form</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- bootstrap -->
+    <link rel="stylesheet" type="text/css" href="//stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" />
+    <!-- font awesome -->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css" integrity="sha384-50oBUHEmvpQ+1lW4y57PTFmhCaXp0ML5d60M1M7uH2+nqUivzIebhndOJK28anvf" crossorigin="anonymous">    
+    <!-- my styles-->
+
+    <!-- my scripts -->
+    <script type="text/javascript" src="assets/js/contacto.js"></script>
+</head>
+<body>
+
+    <!--Cabecera-->
+    <nav class="navbar navbar-light bg-light">
+        <a class="navbar-brand" href="index.html">
+        <img src="image/logoulpgc.png" width="50" height="50"  alt="">
+        ULPGC
+        </a>
+  </nav>
+
+    <!--Fin Cabecera-->
+
+    <!--Formulario de Contacto-->
+    
+<div class="container">
+    <h1>Contacta con nostros</h1>
+    <p>Cuéntanos alguna duda que tengas o sugerencia.</p>
+    
+    <div class="alert" id="messages"></div>
+
+    <form method="post" action="" name="contact" id="contact" onsubmit="enviar(this); return false;">   
+     <hr />
+        <!-- nombre  -->
+        <div class="form-group">
+            <label for="name">Nombre/Apellidos:</label>
+            <div class="input-group">
+                <div class="input-group-prepend">
+                  <div class="input-group-text"><i class="fas fa-user"></i></div>
+                </div>
+                <input type="text" class="form-control" placeholder="Nombre" id="name" name="name" required />               
+            </div>
+        </div>
+        <!-- telefono -->
+        <div class="form-group">
+            <label for="phone">Teléfono</label>
+            <div class="input-group">
+                <div class="input-group-prepend">
+                  <div class="input-group-text"><i class="fas fa-mobile-alt"></i></div>
+                </div>
+                <input type="text" class="form-control" id="phone" name="phone" placeholder="Teléfono" required />               
+            </div>
+        </div>
+        <!-- email -->
+        <div class="form-group">
+            <label>Email:</label>
+            <div class="input-group">
+                <div class="input-group-prepend">
+                  <div class="input-group-text"><i class="fas fa-envelope"></i></div>
+                </div>
+                <input type="email" class="form-control" id="email" name="email" placeholder="su@email" required />               
+            </div>
+            <small id="emailHelp" class="form-text text-muted">Su email no será compartido con nadie.</small>
+        </div>
+        <!-- mensaje -->
+        <div class="form-group">
+            <label for="subject">Asunto:</label>
+            <textarea placeholder="Asunto" id="subject" name="subject" class="form-control" required></textarea>
+        </div>
+
+        
+        
+
+     <hr />
+        <!-- submit -->
+        <button type="button " id="send" name="send" >Enviar</button>
+
+
+
+
+
+    </form>
+
+</div>
+
+<!--Fin formulario contacto-->
+
+    <!--Footer-->
+    <footer id="footer" class="footer-1">
+        <div class="main-footer widgets-ligth typo-light" style="background-color: lavender;">
+            <div class="container">
+                <div class="row">
+                            <div class="col">
+                                <div class="widget subscribe no-box">
+                                    <h5 class="widget-title">DIRECCIÓN<span></span></h5>
+                                    <p>Juan de Quesada, 30 35001 </p>
+                                    <p>Las Palmas de Gran Canaria</p>
+                                    <p>España</p>
+                                    <p></p><a href="https://goo.gl/maps/Du1BZEUTcV7586sD8"><button class="btn btn-primary">Ubicación</button></a></p>     
+                                </div>
+                            </div>
+                <div class="col">
+                    <div class="widget no-box">
+                            <h5 class="widget-title">Contacta<span></span></h5>
+                            <p>Escríbenos una sugerencia cualquiera</p>
+                            <a href=""><button type="button" class="btn btn-primary">Cuéntanos</button></a>
+                    </div>
+                </div>
+                
+                <div class="col">
+                <div class="widget no-box">
+                    <h5 class="widget-title">Redes Sociales<span></span></h5>
+                    <ul class="social-footer2">
+                        <p><a class="footer-logo" href="index.html">
+                            <img src="image/instagramnuevo2.png" width="30" height="30" title="Instagram">
+                        </a>
+                        </p>
+                        <p><a class="footer-logo" href="index.html">
+                            <img src="image/facebooknuevo2.png" width="30" height="30" title="Facebook">
+                        </a>
+                        </p>
+                        <p><a class="footer-logo" href="index.html">
+                            <img src="image/youtubenuevo.png" width="30" height="30" title="YouTube">
+                        </a>
+                        </p>
+                        <p><a class="footer-logo" href="index.html">
+                            <img src="image/twitternuevo.png" width="30" height="30" title="Twitter">
+                        </a>
+                        </p>
+                    </ul>
+                </div>
+              </div>
+            </div>
+          </div>
+         </div>
+          
+            <div class="footer-copyright">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-12 text-center">
+                            <p>Intercambio ULPGC © 2021. All rights reserved.</p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </footer>
+    <!--Fin footer-->
+</body>
+</html>
