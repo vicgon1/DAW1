@@ -1,1 +1,10 @@
 
+
+.boton_login{
+    text-decoration: none;
+}
+
+.navbar-toggler-icon {
+    background-image: url("icons/angles-down-solid.svg")
+  }
+  
