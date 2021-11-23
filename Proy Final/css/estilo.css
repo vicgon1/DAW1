@@ -11,4 +11,18 @@
 .encuadre{
     color: yellowgreen;
 }
+
+.videoindex{
+    width: 100%;
+    max-width: 545px;
+}
+
+.videoindex{
+    width: 100%;
+}
+
+#letraLogin{
+    color: white;
+    text-decoration: none;
+}
   
