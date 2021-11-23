@@ -5,7 +5,7 @@
 }
 
 .navbar-toggler-icon {
-    background-image: url("icons/angles-down-solid.svg")
+    background-image: url("//icons/barralateral.svg")
   }
 
 .encuadre{
@@ -21,8 +21,9 @@
     width: 100%;
 }
 
-#letraLogin{
-    color: white;
-    text-decoration: none;
+#infoIngTeleco{
+    display: none;
 }
+
+
   

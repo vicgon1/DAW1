@@ -9,7 +9,7 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
     <link rel="stylesheet" href="css/estilo.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-    <script src="js/app.js"></script>
+    <script src="/js/app.js"></script>
     <title>Facultades ULPGC</title>
   </head>
   <body>
@@ -19,7 +19,7 @@
           <a class="navbar-brand" href="index.html">
               <img src="image/logoulpgc.png" width="60" height="60" alt="">
           </a>
-          <button class="navbar-toggler" type="button" style="background-color: white;" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+          <button class="navbar-toggler" type="button" style="background-color: black;" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
           </button>
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
@@ -73,7 +73,7 @@
         <div class="carousel-inner">
           <div class="carousel-item active ">
             <img src="image/telecomunicaciones.jpg" class="d-block "  alt="..." style="margin: auto; width: 65%;">
-            <div class="carousel-caption d-block d-md-block " style="color:darkgreen;">
+            <div class="carousel-caption d-block d-md-block "  style="color:darkgreen;">
               <h3>Grado en Ingeniería de Telecomunicación</h3>
               <p style="font-size: 14px;"><b>
               COORDINADORA: Felix Tobajas Guerrero<br>
@@ -83,7 +83,8 @@
               Campus Universitario deTafira s/n,
               Las Palmas de Gran Canaria 35017
               </b>
-              </p>  
+              </p> 
+              <button type="button" id="masInfoIngTeleco">Más Info</button> 
             </div>
           </div>
           <div class="carousel-item">
@@ -122,6 +123,18 @@
           <span class="carousel-control-next-icon" style="background-color: black;" aria-hidden="true"></span>
           <span class="visually-hidden">Next</span>
         </button>
+      </div>
+
+      <br>
+      <div class="container" id="infoIngTeleco">
+        <h3>Grado en Ingeniería Química Industrial</h3>
+              <p style="font-size: 14px;"> <b>
+              COORDINADORA: Juan José Santana Rodríguez<br>
+              EMAIL: sub_movb@ulpgc.es<br>
+              TLF: (+34)928 451 863<br>
+              DIRECCIÓN:  Campus Universitario de Tafira Escuela de Ingenierías Industriales
+               y Civiles de la ULPGC </b>
+              </p>  
       </div>
 
     <!--Fin Carousel-->
