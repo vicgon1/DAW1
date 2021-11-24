@@ -1,4 +1,28 @@
 $(document).ready(function(){
+
+    $("#mesajeBoton1").click(function () { 
+        alert("Necesita estar logeado!"); 
+    });
+
+    $("#mesajeBoton2").click(function () { 
+        alert("Necesita estar logeado!"); 
+    });
+
+    $("#mesajeBoton3").click(function () { 
+        alert("Necesita estar logeado!"); 
+    });
+
+    $("#mesajeBoton4").click(function () { 
+        alert("Necesita estar logeado!"); 
+    });
+
+    $("#mesajeBoton5").click(function () { 
+        alert("Necesita estar logeado!"); 
+    });
+
+    $("#mesajeBoton6").click(function () { 
+        alert("Necesita estar logeado!"); 
+    });
     
     $("#ranking").click(function() {
         window.open("https://www.u-ranking.es/analisis.php#");
