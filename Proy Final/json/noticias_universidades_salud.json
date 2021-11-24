@@ -1,0 +1,42 @@
+{
+    "datos":{
+        "noticias_salud": [
+            { "enfermeria": [
+                {
+                    "titulo": "ULPGC y Plocan buscan sinergias para ampliar la colaboración mutua",
+                    "texto": "El Rector de la ULPGC, Lluís Serra Majem, se ha reunido con el Director de la Plataforma Oceánica de Canarias (Plocan), Joaquín Hernández Brito, para buscar sinergias entre ambas organizaciones que permitan ampliar la colaboración que realizan de forma activa con nuevos proyectos y publicaciones.",
+                    "informacion": "<a href='https://www.ulpgc.es/noticia/2021/11/23/ULPGC-y-Plocan-buscan-sinergias-ampliar-colaboracion-mutua'>Ir al sitio oficial</a>"
+                },
+                {
+                    "titulo": "Canarias comparte buenas prácticas en la gestión del agua para afrontar el reto del cambio climático",
+                    "texto": "La directora de Asuntos Económicos con África, Nasara Cabrera, preside la presentación de resultados del proyecto ADAPTaRES, junto a representantes de la Universidad de Las Palmas de Gran Canaria, Instituto Tecnológico de Canarias, Gobierno de Cabo Verde y consorcio interregional de la Macaronesia",
+                    "informacion": "<a href='https://www.ulpgc.es/noticia/2021/11/22/Canarias-comparte-buenas-practicas-gestion-del-agua-afrontar-reto-del-cambio'>Ir al sitio oficial</a>"
+                }
+            ]},
+            { "medicina": [
+                {
+                    "titulo": "El Rector de la ULPGC se reúne con el Presidente del Cabildo de La Palma durante su visita a la Isla",
+                    "texto": "Una delegación de la Universidad de Las Palmas de Gran Canaria (ULPGC), encabezada por el Rector Lluís Serra Majem y la Vicerrectora de Investigación y Transferencia Marisol Izquierdo, se encuentra el lunes 22 de noviembre en la isla de La Palma donde ha mantenido reuniones con los representantes de las instituciones afectadas, además de recorrer otras instalaciones destinadas a labores humanitarias y científicas.",
+                    "informacion": "<a href='https://www.ulpgc.es/noticia/2021/11/22/Rector-ULPGC-se-reune-Presidente-del-Cabildo-Palma-durante-su-visita-Isla'>Ir al sitio oficial</a>"
+                },
+                {
+                    "titulo": "La ULPGC se une al Manifiesto de la Red de Unidades de Igualdad de Género para la Excelencia Universitaria",
+                    "texto": "Con motivo de la celebración el jueves 25 de noviembre del Día Internacional por la Eliminación de la Violencia contra las Mujeres, la Red de Unidades de Igualdad de Género para la Excelencia Universitaria, RUIGEU, ha hecho público un Manifiesto, firmado por 53 universidades, entre las que se encuentra la ULPGC, que indica lo siguiente: ",
+                    "informacion": "<a href='https://www.ulpgc.es/noticia/2021/11/23/ULPGC-se-une-al-Manifiesto-Red-Unidades-Igualdad-Genero-Excelencia-Universitaria'>Ir al sitio oficial</a>"
+                }
+            ]},
+            { "veterinaria": [
+                {
+                    "titulo": "El edificio NEXO acoge la Competición de Ingeniería de la asociación estudiantil Best Las Palmas",
+                    "texto": "El viernes 26 de noviembre, a las 16.30 horas, el edificio NEXO del Campus de Tafira (Antiguo Comedor Universitario), tendrá lugar la inauguración de la Competición de Ingeniería organizada por la asociación de estudiantes BEST Las Palmas y que contará con la participación del Director de Alumni y Formación Transversal, Javier Santana Martín, y la Directora de Prácticas Externas y Empleabilidad, Lourdes Sarmiento, del Vicerrectorado de Estudiantes, Alumni y Empleabilidad de la ULPGC.",
+                    "informacion": "<a href='https://www.ulpgc.es/noticia/2021/11/23/edificio-NEXO-acoge-Competicion-Ingenieria-asociacion-estudiantil-Best-Palmas'>Ir al sitio oficial</a>"
+                },
+                {
+                    "titulo": "Inauguración del Curso 2021-2022 del Programa de Doctorado Interuniversitario ‘Islas Atlánticas’",
+                    "texto": "El miércoles 24 de noviembre, a las 18 horas, en la Sala de Grados de la Facultad de Economía, Empresa y Turismo (Campus de Tafira), tendrá lugar el acto inaugural del Programa de Doctorado ‘Islas Atlánticas: Historia, Patrimonio y Marco Jurídico Institucional’ del Curso 2021-2022.",
+                    "informacion": "<a href='https://www.ulpgc.es/noticia/2021/11/23/Inauguracion-del-Curso-2021-2022-del-Programa-Doctorado-Interuniversitario-Islas'>Ir al sitio oficial</a>"
+                }
+            ]}
+        ]
+    }
+}

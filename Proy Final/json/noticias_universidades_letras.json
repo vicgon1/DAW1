@@ -1,0 +1,47 @@
+{
+    "datos":{
+        "noticias_letras": [
+            { "trabajo_social": [
+                {
+                    "titulo": "Nueva página Web del Centro Estructura de Teleformación",
+                    "texto": "Para el curso académico 2018/19, uno de los objetivos generales derivados de la Dirección del Estructura de Teleformación es la actualización del diseño y el contenido de la página web del Centro con el fin de mejorar su presentación y organización, haciéndola más intuitiva y compacta.",
+                    "informacion": "<a href='https://online.ulpgc.es/noticia/nueva-página-web-del-centro-estructura-de-teleformación'>Ir al sitio oficial</a>"
+                },
+                {
+                    "titulo": "Big Blue Button",
+                    "texto": "A partir del curso académico 2018/19, el Centro Estructura de Teleformación ha incorporado una nueva utilidad de comunicación síncrona y asíncrona para facilitar el proceso de enseñanza y aprendizaje en la modalidad no presencial.",
+                    "informacion": "<a href='https://online.ulpgc.es/noticia/big-blue-button'>Ir al sitio oficial</a>"
+                },
+                {
+                    "titulo": "Suspendida la exigencia de acreditación o reconocimiento del nivel B1 en Lengua Extranjera",
+                    "texto": "En las titulaciones impartidas en la Estructura de Teleformación solo el Grado en Relaciones Laborales y Recursos Humanos no incluye asignaturas que exoneren de la acreditación de dicho nivel. La Memoria Verifica recomienda que los alumnos concluyan con un nivel B1 inglés. Al no establecerlo como exigencia no será requisito indispensable desde la convocatoria ordinaria del presente curso, estar en posesión del nivel B1 inglés para hacer la defensa del TFG.",
+                    "informacion": "<a href='https://online.ulpgc.es/noticia/suspendida-la-exigencia-de-acreditación-o-reconocimiento-del-nivel-b1-en-lengua-extranjera'>Ir al sitio oficial</a>"
+                }
+            ]},
+            { "turismo": [
+                {
+                    "titulo": "Una estudiante del Grado en Turismo (no presencial) obtiene el Primer Premio en el Concurso Tu vídeo cultural bilingüe / Your bilingual cultural video",
+                    "texto": "Tatiana Arbelo Falcón, estudiante del Grado en Turismo (no presencial) de la Estructura de Teleformación, ha obtenido el Primer Premio en el Concurso 'Tu vídeo cultural bilingüe / Your bilingual cultural video' promovido por el Vicerrectorado de Cultura y Sociedad  de la ULPGC. La entrega de los tres primeros premios, así como la proyección de los diez vídeos finalistas tendrá lugar el próximo sábado 21 de abril de 2018, a las 12:15h, en el Museo Elder de la Ciencia y la Tecnología (2ª Planta Sala de Cine 3D), dentro de la 'Jornada ULPGC de Cultura Creativa y Divulgaciónde la Cultura Científica'.",
+                    "informacion": "<a href='https://online.ulpgc.es/noticia/una-estudiante-del-grado-en-turismo-no-presencial-obtiene-el-primer-premio-en-el-concurso-tu'>Ir al sitio oficial</a>"
+                },
+                {
+                    "titulo": "Información académica",
+                    "texto": "Cada curso puedes consultar la información académica de la estructura de teleformación",
+                    "informacion": "<a href='https://online.ulpgc.es/noticia/información-académica'>Ir al sitio oficial</a>"
+                }
+            ]},
+            { "economia": [
+                {
+                    "titulo": "Una estudiante del Grado en Turismo (no presencial) obtiene el Primer Premio en el Concurso Tu vídeo cultural bilingüe / Your bilingual cultural video",
+                    "texto": "Tatiana Arbelo Falcón, estudiante del Grado en Turismo (no presencial) de la Estructura de Teleformación, ha obtenido el Primer Premio en el Concurso 'Tu vídeo cultural bilingüe / Your bilingual cultural video' promovido por el Vicerrectorado de Cultura y Sociedad  de la ULPGC. La entrega de los tres primeros premios, así como la proyección de los diez vídeos finalistas tendrá lugar el próximo sábado 21 de abril de 2018, a las 12:15h, en el Museo Elder de la Ciencia y la Tecnología (2ª Planta Sala de Cine 3D), dentro de la 'Jornada ULPGC de Cultura Creativa y Divulgaciónde la Cultura Científica'.",
+                    "informacion": "<a href='https://online.ulpgc.es/noticia/una-estudiante-del-grado-en-turismo-no-presencial-obtiene-el-primer-premio-en-el-concurso-tu'>Ir al sitio oficial</a>"
+                },
+                {
+                    "titulo": "Información académica",
+                    "texto": "Cada curso puedes consultar la información académica de la estructura de teleformación",
+                    "informacion": "<a href='https://online.ulpgc.es/noticia/información-académica'>Ir al sitio oficial</a>"
+                }
+            ]}
+        ]
+    }
+}

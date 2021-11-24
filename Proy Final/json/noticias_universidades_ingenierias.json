@@ -1,0 +1,52 @@
+{
+    "datos":{
+        "noticias_ingenierias": [
+            { "telecomunicaciones": [
+                {
+                    "titulo": "Videoconferencia 'La Tecnología de las finanzas' en la EITE",
+                    "texto": "El jueves 25 de noviembre de 2021, a las 12:15h, se celebrará la videoconferencia 'La Tecnología de las finanzas' organizada por la Escuela de Ingeniería de Telecomunicación y Electrónica (EITE).",
+                    "informacion": "<a href='https://eite.ulpgc.es/index.php/es/688-videoconferencia-la-tecnologia-de-las-finanzas-en-la-eite'>Ir al sitio oficial</a>"
+                },
+                {
+                    "titulo": "V Jornada de Innovación Tecnológica",
+                    "texto": "La Escuela de Ingeniería de Telecomunicación y Electrónica (EITE) de la ULPGC participa en las Jornadas de Innovación organizadas por el IES Alonso Quesada de la capital grancanaria. Estas jornadas son una puerta abierta a la innovación pedagógica a través del desarrollo de diversos talleres organizados por los distintos departamentos del centro sobre un mismo tema. Un nuevo concepto de metodología y colaboración entre el profesorado en el que, a través de una tarea común, el alumnado se sienta implicado y verdadero protagonista de su aprendizaje.",
+                    "informacion": "<a href='https://eite.ulpgc.es/index.php/es/687-v-jornada-de-innovacion-tecnologica'>Ir al sitio oficial</a>"
+                },
+                {
+                    "titulo": "Semanas de la Ciencia y la Innovación en Canarias 2021",
+                    "texto": "La Escuela de Ingeniería de Telecomunicación y Electrónica (EITE) de la Universidad de Las Palmas de Gran Canaria (ULPGC), con la colaboración del Colegio Oficial de Ingenieros de Telecomunicación en Canarias, participa en la Semanas de la Ciencia y la Innovación en Canarias 2021, que se celebrarán del 3 al 14 de noviembre.",
+                    "informacion": "<a href='https://eite.ulpgc.es/index.php/es/680-semanas-de-la-ciencia-y-la-innovacion-en-canarias-2021'>Ir al sitio oficial</a>"
+                }
+            ]},
+            { "informatica": [
+                {
+                    "titulo": "Taller práctico de iniciación a github",
+                    "texto": "la primera sesión se celebrará el jueves 2 de diciembre de 2021; durante la sesión se propondrán una serie de ejercicios que los participantes tendrán que realizar de forma autónoma. La segunda sesión se celebrará el viernes 10 de diciembre de 2021. Todas las sesiones se desarrollarán en horario de tarde, de 16:30 a 18:30",
+                    "informacion": "<a href='https://www.eii.ulpgc.es/tb_university_ex/?q=article/taller-practico-de-iniciacion-github'>Ir al sitio oficial</a>"
+                },
+                {
+                    "titulo": "Desarrollo de experiencias inmersivas en realidad virtual",
+                    "texto": "Este taller introducirá a los participantes en el mundo del desarrollo de experiencias inmersivas con las tecnologías de la realidad virtual. Para ello, se tratarán diversos puntos, desde nociones de experiencia de usuario para este tipo de aplicativos hasta el desarrollo de un pequeño juego en Unity destinado a gafas de realidad virtual para teléfonos móviles.",
+                    "informacion": "<a href='https://www.eii.ulpgc.es/tb_university_ex/?q=article/desarrollo-de-experiencias-inmersivas-en-realidad-virtual'>Ir al sitio oficial</a>"
+                },
+                {
+                    "titulo": "Oferta de trabajo en SAGULPA",
+                    "texto": "Oferta de trabajo recibida el 12/12/2021 de Salgulpa para ingenieros informáticos con el TFT o conocimiento de servidores Linus o redes LAN. Valoran conocimiento de CISCO.",
+                    "informacion": "<a href='https://www.eii.ulpgc.es/tb_university_ex/?q=article/oferta-de-trabajo-en-sagulpa'>Ir al sitio oficial</a>"
+                }
+            ]},
+            { "quimica_industrial": [
+                {
+                    "titulo": "Proyecto Tecnología Geomática en Bachillerato (5ª Ed.)",
+                    "texto": "El Grupo de Innovación Educativa de Ingeniería Geomática de la ULPGC organiza junto a la Consejería de Consejería de Educación, Universidades, Cultura y Deportes del Gobierno de Canarias, el proyecto “TECNOLOGÍA GEOMÁTICA EN BACHILLERATO” por quinto año consecutivo, con estudiantes de bachillerato de Gran Canaria.",
+                    "informacion": "<a href='https://eiic.ulpgc.es/index.php/noticias-eiic/114-captacion-y-divulgacion/617-alumnos-de-bachillerato-realizan-talleres-de-ingenieria-geomatica-en-la-universidad-de-las-palmas-de-gran-canaria'>Ir al sitio oficial</a>"
+                },
+                {
+                    "titulo": "La EIIC participa en las visitas técnicas a Puertos de estudiantes de Bachillerato para sembrar vocaciones científicas",
+                    "texto": "La Escuela de Ingenierías Industriales y Civiles participa en una serie de visitas técnicas a infraestructuras organizadas para cerca de 300 alumnos de 1º de Bachillerato, de una docena de institutos distribuidos por todo el archipiélago, con el objetivo de poner en marcha el proyecto de innovación educativa, para sembrar vocaciones científicas entre la juventud canaria.",
+                    "informacion": "<a href='https://eiic.ulpgc.es/index.php/noticias-eiic/114-captacion-y-divulgacion/616-la-eiic-participa-en-las-visitas-tecnicas-a-puertos-de-estudiantes-de-bachillerato-para-sembrar-vocaciones-cientificas'>Ir al sitio oficial</a>"
+                }
+            ]}
+        ]
+    }
+}
