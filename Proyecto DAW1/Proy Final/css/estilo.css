@@ -1,0 +1,84 @@
+
+
+.boton_login{
+    text-decoration: none;
+}
+
+.navbar-toggler-icon {
+    background-image: url("//icons/barralateral.svg")
+  }
+
+.encuadre{
+    color: yellowgreen;
+}
+
+.videoindex{
+    width: 100%;
+    max-width: 545px;
+}
+
+.videoindex{
+    width: 100%;
+}
+
+#infoIngTeleco{
+    display: none;
+}
+
+#notiasIng{
+    text-align: center;
+}
+
+#notiasLet{
+    text-align: center;
+}
+
+#notiasSal{
+    text-align: center;
+}
+
+
+#textoNoticias{
+    display: none;
+    text-align: left;
+}
+
+#mostrarAnuncio1{
+    display: none;
+    text-align: left;
+    background-color: black;
+    color: white;
+}
+
+#mostrarAnuncio2{
+    display: none;
+    text-align: right;
+    background-color: oldlace;
+}
+
+#mostrarAnuncio3{
+    display: none;
+    text-align: left;
+    background-color: black;
+    color: white;
+}
+
+#mostrarAnuncio4{
+    display: none;
+    text-align: right;
+    background-color: oldlace;
+}
+
+#mostrarAnuncio5{
+    display: none;
+    text-align: left;
+    background-color: black;
+    color: white;
+}
+
+#mostrarAnuncio6{
+    display: none;
+    text-align: right;
+    background-color: oldlace;
+}
+  
